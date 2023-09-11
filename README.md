@@ -1,2 +1,2 @@
-# Myway
-솔로프로젝트 -Myway 
+# MaMaMeMo (MMMM)
+솔로프로젝트 -MaMaMeMo
